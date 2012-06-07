@@ -1,0 +1,21 @@
+//This is a JSON string listing the POIs of ITE College West
+
+var POIs = [
+
+	{"id":"0","type":2,"Point":{"altitude":20.0,"longitude":103.877206,"latitude":1.372419},"description":"Some place nearby.","name":"Nearby"},
+	
+	{"id":"1","type":1,"Point":{"altitude":-30.0,"longitude":103.752100,"latitude":1.375283},"description":"The 7/11 convenient store","name":"7-11"},
+
+	{"id":"2","type":0,"Point":{"altitude":0.0,"longitude":103.751420,"latitude":1.375398},"description":"School of Electronics and Infocomm Technology, Academic Staff Center","name":"SEIT"},
+
+	{"id":"3","type":2,"Point":{"altitude":-20.0,"longitude":103.751867,"latitude":1.374800},"description":"ECO Cafeteria@Block 3, Level 3","name":"Eco"},
+
+	{"id":"4","type":0,"Point":{"altitude":10.0,"longitude":103.751767,"latitude":1.376283},"description":"Internetworking Lab @ Block 4, Level 6, Room08","name":"Rm4608"},
+
+	{"id":"5","type":1,"Point":{"altitude":-40.0,"longitude":103.751100,"latitude":1.373586},"description":"Stadium Grandstand, accessible via Level 2","name":"Stadium"},
+
+	{"id":"6","type":2,"Point":{"altitude":-40.0,"longitude":103.750742,"latitude":1.373628},"description":"Swimming Pool, accessible via Level 2","name":"Pool"},
+	
+	{"id":"7","type":0,"Point":{"altitude":-10.0,"longitude":103.752467,"latitude":1.37575},"description":"Auditorium, Block 2, accessible via Level 4","name":"Auditorium"}
+
+]
